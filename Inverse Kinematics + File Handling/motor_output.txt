@@ -1,0 +1,25 @@
+==============================
+         Kinematics Output     
+==============================
+
+Input Kecepatan:
+X: 5, Y: 6, Z: 1
+
+Hasil Kecepatan Motor:
+------------------------------
+Motor 0 (Theta = 45 derajat):
+V_0 = cos(45) * X + sin(45) * Y + Z
+Kecepatan motor 0 : 8
+------------------------------
+Motor 1 (Theta = 135 derajat):
+V_1 = cos(135) * X + sin(135) * Y + Z
+Kecepatan motor 1 : 1
+------------------------------
+Motor 2 (Theta = 225 derajat):
+V_2 = cos(225) * X + sin(225) * Y + Z
+Kecepatan motor 2 : -6
+------------------------------
+Motor 3 (Theta = 315 derajat):
+V_3 = cos(315) * X + sin(315) * Y + Z
+Kecepatan motor 3 : 0
+------------------------------
