@@ -1,0 +1,29 @@
+{
+  "Input Kecepatan": {
+    "X": 3,
+    "Y": 4,
+    "Z": 1
+  },
+  "Hasil Kecepatan Motor": [
+    {
+      "Motor": 0,
+      "Theta": 45,
+      "Kecepatan": 5
+    },
+    {
+      "Motor": 1,
+      "Theta": 135,
+      "Kecepatan": 1
+    },
+    {
+      "Motor": 2,
+      "Theta": 225,
+      "Kecepatan": -3
+    },
+    {
+      "Motor": 3,
+      "Theta": 315,
+      "Kecepatan": 0
+    }
+  ]
+}
